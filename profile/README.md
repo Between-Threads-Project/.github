@@ -4,7 +4,7 @@
 
 Between Threads is an experimental platform that bridges **computer vision**, **real-time systems**, and **physical actuation** to create a new form of interaction — where your fingers become a control interface for the physical world.
 
-![Between Threads Poster](resources/poster.png)
+![Between Threads Poster](/resources/poster.png)
 
 ---
 
@@ -13,6 +13,7 @@ Between Threads is an experimental platform that bridges **computer vision**, **
 Between Threads transforms **hand gestures into live-controlled servo motors**, creating a digital-to-physical feedback loop.
 
 Think of it as a **modern puppet system**, powered by:
+
 - Real-time hand tracking
 - Low-latency communication
 - Physical motor control
@@ -23,21 +24,25 @@ Think of it as a **modern puppet system**, powered by:
 ## 🚀 Key Features
 
 ### 🎯 Real-Time Hand Tracking
+
 - High-precision finger tracking
 - Ultra-low latency processing
 - Natural, intuitive control
 
 ### ⚙️ Physical Actuation
+
 - Servo motors controlled in real time
 - Smooth and responsive movement
 - Modular hardware integration
 
 ### 🌐 Live Unity + Dashboard Interface
+
 - Real-time visualization of the system
 - Control and monitoring
 - Interactive dashboard
 
 ### 🔌 Modular Architecture
+
 - Fully decoupled services
 - Scalable and maintainable system
 
@@ -47,12 +52,12 @@ Think of it as a **modern puppet system**, powered by:
 
 The project is split into multiple repositories for clarity and scalability:
 
-- [`Hand-Recognition`](https://github.com/Between-Threads-Project/Hand-Recognition) → Vision & gesture processing  
-- [`RaspberryPi-Software`](https://github.com/Between-Threads-Project/RaspberryPi-Software) → Motor control & dashboard backend  
-- [`Dashboard`](https://github.com/Between-Threads-Project/Dashboard) → Dashboard & user interaction  
-- [`Orchestrator`](https://github.com/Between-Threads-Project/Orchestrator) → Installer for the all project  
-- [`Unity-Interface`](https://github.com/Between-Threads-Project/Unity-Interface) → Unity interface application  
-- [`Hardware`](https://github.com/Between-Threads-Project/Hardware) → Cable connection and printed parts files  
+- [`Hand-Recognition`](https://github.com/Between-Threads-Project/Hand-Recognition) → Vision & gesture processing
+- [`RaspberryPi-Software`](https://github.com/Between-Threads-Project/RaspberryPi-Software) → Motor control & dashboard backend
+- [`Dashboard`](https://github.com/Between-Threads-Project/Dashboard) → Dashboard & user interaction
+- [`Orchestrator`](https://github.com/Between-Threads-Project/Orchestrator) → Installer for the all project
+- [`Unity-Interface`](https://github.com/Between-Threads-Project/Unity-Interface) → Unity interface application
+- [`Hardware`](https://github.com/Between-Threads-Project/Hardware) → Cable connection and printed parts files
 
 ---
 
@@ -60,12 +65,13 @@ The project is split into multiple repositories for clarity and scalability:
 
 The project is built around a **distributed architecture**, composed of multiple independent services:
 
-- **Hand Tracking** → Captures and processes finger movements  
-- **Raspberry Pi Software** → Controls the physical motors & the dashboard back-end  
-- **Web Dashboard** → Provides an interface to lauch the project  
-- **Unity Interface** → Provides real-time visualization and control   
+- **Hand Tracking** → Captures and processes finger movements
+- **Raspberry Pi Software** → Controls the physical motors & the dashboard back-end
+- **Web Dashboard** → Provides an interface to lauch the project
+- **Unity Interface** → Provides real-time visualization and control
 
 Each module is designed to be:
+
 - Replaceable
 - Scalable
 - Easy to extend
@@ -75,6 +81,7 @@ Each module is designed to be:
 ## ⚡ Why Between Threads?
 
 This project explores the intersection of:
+
 - **Human-computer interaction**
 - **Embedded systems**
 - **Real-time software architecture**
@@ -85,17 +92,18 @@ It demonstrates how software can **directly manipulate the physical world** in a
 
 ## 🛠 Tech Stack
 
-- **Computer Vision**: Hand tracking pipeline using [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide?hl=fr)  
-- **Website Backend**: Python / FastAPI / WebSockets  
-- **Frontend**: React / Next.js  
-- **Hardware**: Raspberry Pi + Servo Motors  
-- **Communication**: UDP + WebSockets 
+- **Computer Vision**: Hand tracking pipeline using [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide?hl=fr)
+- **Website Backend**: Python / FastAPI / WebSockets
+- **Frontend**: React / Next.js
+- **Hardware**: Raspberry Pi + Servo Motors
+- **Communication**: UDP + WebSockets
 
 ---
 
 ## 🔭 Vision
 
 Between Threads is more than a project — it's a **prototype for future interaction systems**, where:
+
 - Interfaces become invisible
 - Movements replace inputs
 - Software directly controls reality
