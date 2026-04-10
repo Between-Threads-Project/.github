@@ -10,7 +10,7 @@ Between Threads is an experimental platform that bridges **computer vision**, **
 
 Built as part of an engineering project at [**IFT (Institue for Futures Technologies)**](https://ift.devinci.fr) by [Jolann Narcisse](https://marmalade-timer-d9d.notion.site/Jolann-NARCISSE-Future-Engineer-in-Creative-Technologies-Portfolio-2b3e0ce5338a804096b2d609686c9e7e) & [Julien Fernandes](https://julien-fernandes.vercel.app).
 
-The whole project is released under [MIT License](LICENSE.md)
+The whole project is released under [MIT License](../LICENSE.md)
 
 ---
 
