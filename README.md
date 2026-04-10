@@ -1,3 +1,3 @@
 # Between Threads Project
 
-See [README.md](profile/README.md)
+See [Overview](https://github.com/Between-Threads-Project/Overview) for more details.

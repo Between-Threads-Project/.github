@@ -12,8 +12,6 @@ Built as part of an engineering project at [**IFT (Institue for Futures Technolo
 
 The whole project is released under [MIT License](../LICENSE.md)
 
----
-
 ## ⭐️
 
 If you find this project interesting, feel free to explore the repos and follow its evolution.
