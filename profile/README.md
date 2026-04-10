@@ -4,7 +4,7 @@
 
 Between Threads is an experimental platform that bridges **computer vision**, **real-time systems**, and **physical actuation** to create a new form of interaction — where your fingers become a control interface for the physical world.
 
-![Between Threads Poster](/resources/poster.png)
+![Between Threads Poster](/resources/poster.jpg)
 
 ---
 
